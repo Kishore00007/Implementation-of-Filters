@@ -149,6 +149,7 @@ i) Using Averaging Filter
 ![](https://github.com/Kishore00007/Implementation-of-Filters/blob/main/boxx.png)
 
 ii) Using Weighted Averaging Filter
+
 ![](weighted.png)
 
 iii) Using Gaussian Filter
