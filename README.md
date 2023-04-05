@@ -146,7 +146,7 @@ cv2.destroyAllWindows()
 
 i) Using Averaging Filter
 
-![](https://github.com/Kishore00007/Implementation-of-Filters/blob/main/boxx.png)
+![](boxx.png)
 
 ii) Using Weighted Averaging Filter
 
@@ -154,7 +154,7 @@ ii) Using Weighted Averaging Filter
 
 iii) Using Gaussian Filter
 
-![](https://github.com/Kishore00007/Implementation-of-Filters/blob/main/gaussian.png)
+![](gaussian.png)
 
 iv) Using Median Filter
 
@@ -164,7 +164,7 @@ iv) Using Median Filter
 
 i) Using Laplacian Kernal
 
-![](https://github.com/Kishore00007/Implementation-of-Filters/blob/main/kernel.png)
+![](kernel.png)
 
 ii)Using Laplacian Operator
 
