@@ -149,7 +149,7 @@ i) Using Averaging Filter
 ![](https://github.com/Kishore00007/Implementation-of-Filters/blob/main/boxx.png)
 
 ii) Using Weighted Averaging Filter
-![](weighted.PNG)
+![](weighted.png)
 
 iii) Using Gaussian Filter
 
@@ -157,7 +157,7 @@ iii) Using Gaussian Filter
 
 iv) Using Median Filter
 
-![](med.PNG)
+![](med.png)
 
 ### 2. Sharpening Filters
 
@@ -167,7 +167,7 @@ i) Using Laplacian Kernal
 
 ii)Using Laplacian Operator
 
-![](operation.PNG)
+![](operation.png)
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
