@@ -142,24 +142,24 @@ cv2.destroyAllWindows()
 ![](orginal.PNG)
 ### 1. Smoothing Filters
 
-i) Using Averaging Filter
+i, Using Averaging Filter
 ![](boxx.PNG)
 
-ii) Using Weighted Averaging Filter
+ii, Using Weighted Averaging Filter
 ![](weighted.PNG)
 
-iii) Using Gaussian Filter
+iii, Using Gaussian Filter
 ![](gaussian.PNG)
 
-iv) Using Median Filter
+iv, Using Median Filter
 ![](med.PNG)
 
 ### 2. Sharpening Filters
 
-i) Using Laplacian Kernal
+i, Using Laplacian Kernal
 ![](kernel.PNG)
 
-ii) Using Laplacian Operator
+ii, Using Laplacian Operator
 ![](operation.PNG)
 
 ## Result:
