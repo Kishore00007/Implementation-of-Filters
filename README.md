@@ -139,28 +139,28 @@ cv2.destroyAllWindows()
 ## OUTPUT:
 
 ## ORIGINAL IMAGE:
-![OUTPUT-1](orginal.PNG)
+![](orginal.PNG)
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
-![OUTPUT-2](boxx.PNG)
+![](boxx.PNG)
 
 ii) Using Weighted Averaging Filter
-![OUTPUT-03](weighted.PNG)
+![](weighted.PNG)
 
 iii) Using Gaussian Filter
-![OUTPUT-04](gaussian.PNG)
+![](gaussian.PNG)
 
 iv) Using Median Filter
-![OUTPUT-05](med.PNG)
+![](med.PNG)
 
 ### 2. Sharpening Filters
 
 i) Using Laplacian Kernal
-![OUTPUT-06](kernel.PNG)
+![](kernel.PNG)
 
 ii) Using Laplacian Operator
-![OUTPUT-07](operation.PNG)
+![](operation.PNG)
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
