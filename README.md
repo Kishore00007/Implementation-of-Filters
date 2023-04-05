@@ -139,17 +139,17 @@ cv2.destroyAllWindows()
 ## OUTPUT:
 
 ## ORIGINAL IMAGE:
-![](orginal.PNG)
+![](https://github.com/Kishore00007/Implementation-of-Filters/blob/main/boxx.png)
 ### 1. Smoothing Filters
 
 i, Using Averaging Filter
-![](boxx.PNG)
+![](https://github.com/Kishore00007/Implementation-of-Filters/blob/main/boxx.png)
 
 ii, Using Weighted Averaging Filter
 ![](weighted.PNG)
 
 iii, Using Gaussian Filter
-![](gaussian.PNG)
+![](https://github.com/Kishore00007/Implementation-of-Filters/blob/main/gaussian.png)
 
 iv, Using Median Filter
 ![](med.PNG)
@@ -157,7 +157,7 @@ iv, Using Median Filter
 ### 2. Sharpening Filters
 
 i, Using Laplacian Kernal
-![](kernel.PNG)
+![](https://github.com/Kishore00007/Implementation-of-Filters/blob/main/kernel.png)
 
 ii, Using Laplacian Operator
 ![](operation.PNG)
